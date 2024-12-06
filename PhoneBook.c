@@ -294,7 +294,7 @@ int main() {
                 recent_call_list();
                 break;
             case 10:
-                save_contacts();  // Save all contacts before exiting
+                save_contacts();
                 printf("Exiting program... Thank you for Using This Program!\n");
                 break;
             default:
