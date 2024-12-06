@@ -1,7 +1,7 @@
 
 # 📱 Phonebook Management System
 
-The **Phonebook Management System** is a comprehensive C-based application designed to manage contacts efficiently. With a user-friendly console interface, this system supports essential operations like adding, deleting, updating, and searching for contacts. Additionally, it includes features like sorting, call history tracking, and quick dial functionality.
+The **Phonebook Management System** is a C-based application for efficient contact management, offering features like add, delete, update, search, sort, call history tracking, and quick dial via a user-friendly console interface.
 
 ---
 
